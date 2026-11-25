@@ -1,0 +1,70 @@
+{
+  "date": "WEDNESDAY 25 NOVEMBER 2026",
+  "kicker": "THE WORLD'S NEWS IN ONE PICTURE",
+  "footer": "As reported by 03:00 UTC, 25 Nov 2026. Sources: Reuters, ABS, SBS, Al Jazeera, Dawn, The Standard, Newsquawk.",
+  "lead": {
+    "tag": "SPACE · CHINA / PAKISTAN",
+    "color": "#3B3F9E",
+    "icon": "rocket",
+    "head": "First foreign astronaut heads to Tiangong",
+    "body": "Pakistan's Muhammad Zeeshan Ali lifts off on China's Shenzhou-24 with two Chinese crew for a week-long stay (00:18 GMT, Jiuquan)."
+  },
+  "stories": [
+    {
+      "tag": "MIDDLE EAST · IRAN WAR",
+      "color": "#B8322A",
+      "icon": "ship",
+      "head": "Iran keeps the Strait of Hormuz shut",
+      "body": "IRGC says more tankers hit mines; US says main lanes are clear."
+    },
+    {
+      "tag": "SAUDI ARABIA · YEMEN",
+      "color": "#B8322A",
+      "icon": "burst",
+      "head": "Houthis hit Riyadh tower again, 11 hurt",
+      "body": "Second strike in a week; rebels now threaten Saudi ports."
+    },
+    {
+      "tag": "AUSTRALIA · ECONOMY",
+      "color": "#23805F",
+      "icon": "chart",
+      "head": "Inflation jumps to 4.9%, above forecasts",
+      "body": "October CPI, up from 4.3%, driven by fuel and power bills."
+    },
+    {
+      "tag": "USA · TECH",
+      "color": "#5D3FA6",
+      "icon": "chip",
+      "head": "Row in Washington over Nvidia CEO's return",
+      "body": "Trump says he intervened for Jensen Huang; Democrats eye probe."
+    },
+    {
+      "tag": "USA · TRADE",
+      "color": "#C27C0E",
+      "icon": "percent",
+      "head": "US readies new tariffs on China, EU and 14 others",
+      "body": "'Excess capacity' duties due this week; China faces most."
+    },
+    {
+      "tag": "SOUTH KOREA",
+      "color": "#1F7A8C",
+      "icon": "train",
+      "head": "Seoul subway strike averted",
+      "body": "Wage deal struck early on 25 Nov; lines 1-8 run normally."
+    },
+    {
+      "tag": "RUSSIA · UKRAINE",
+      "color": "#2C5AA0",
+      "icon": "factory",
+      "head": "Putin vows 'inevitable' retaliation",
+      "body": "After Ukrainian drone strikes on Russian oil refineries."
+    },
+    {
+      "tag": "SPORT · AFRICA",
+      "color": "#D9532B",
+      "icon": "trophy",
+      "head": "Senegal get their AFCON title back",
+      "body": "Sport's top court overturns the ruling that crowned Morocco."
+    }
+  ]
+}
